@@ -50,5 +50,3 @@ G.idea/sonarlint/issuestore/9/7/9797e593a2d0413f250855acfcdde95557127486,7/e/7e
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-W
-'src/main/java/docker/docker-compose.yml,e/3/e308014f4b0e6be35e6051e50b042b88b0f92bf2

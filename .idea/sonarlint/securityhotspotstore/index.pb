@@ -50,5 +50,3 @@ w
 G.idea/sonarlint/issuestore/8/e/8ea9de103fd5900ffb5b23a4cf7aaaac05bdf693,1/e/1e7aa195148f56111d712a7b6f7673ac9da4811c
 w
 G.idea/sonarlint/issuestore/9/7/9797e593a2d0413f250855acfcdde95557127486,7/e/7e9245f9d07b7b9dfe66b6c9d6a7fdc64a20029d
-W
-'src/main/java/docker/docker-compose.yml,e/3/e308014f4b0e6be35e6051e50b042b88b0f92bf2
