@@ -53,6 +53,7 @@ class PersonServiceTest {
     }
 
     @Test
+    @DisplayName("When create Person whit Email null Should Throw Exception")
     void testeCreateperson_WhitNullEmail_ShouldThrowIllegalArgumentException() {
         person.setEmail(null);
 
